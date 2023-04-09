@@ -21,11 +21,11 @@ author: Sophie Janos
 
 navbar-links:
   About Me: "aboutme"
- Graphs:
+  Graphs:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Videos: "https://deanattali.com"
-  Gallery: 
+  Gallery:
 
 ################
 # --- Logo --- #
@@ -50,8 +50,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "sophie.janos@ucalgary.ca.com"
+  email: "sophie.janos@ucalgary.ca"
   github: sophiejanos
+  kaggle: sophiejanos
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -70,7 +71,6 @@ social-network-links:
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
-kaggle: sophiejanos
 #  hackerrank: yourname
 
 # If you want your website to generate an RSS feed, provide a description
@@ -90,7 +90,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "KNES381FinalProject.com"
+url-pretty: "/KNES381FinalProject"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
