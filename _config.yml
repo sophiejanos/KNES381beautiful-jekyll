@@ -22,10 +22,8 @@ author: Sophie Janos
 navbar-links:
   About Me: "aboutme"
   Graphs:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Videos: "https://deanattali.com"
-  Gallery: "gallery.md"
+  Videos: ""
+  Gallery: "/gallery/"
   
 ################
 # --- Logo --- #
