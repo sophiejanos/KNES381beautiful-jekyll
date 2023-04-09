@@ -21,10 +21,11 @@ author: Sophie Janos
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+ Graphs:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Videos: "https://deanattali.com"
+  Gallery: 
 
 ################
 # --- Logo --- #
@@ -50,7 +51,6 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "sophie.janos@ucalgary.ca.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: sophiejanos
 #  medium: yourname
 #  reddit: yourname
@@ -122,16 +122,16 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#800000"
-navbar-text-col: "#FFFAF0"
+navbar-text-col: "#FFFFF0"
 navbar-border-col: "#DDDDDD"
-page-col: "##FFFAF0"
-text-col: "#404040"
+page-col: "#FFFFF0"
+text-col: "#330000"
 link-col: "#008AFF"
-hover-col: "#0085A1"
+hover-col: "#b30000"
 footer-col: "#800000"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-text-col: "#FFFFF0"
+footer-link-col: "#FFFFF0"
+footer-hover-col: "#ffffff"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
