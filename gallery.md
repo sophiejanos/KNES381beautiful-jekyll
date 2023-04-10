@@ -8,10 +8,8 @@ AI has the capability producing new and original images through prompts. This te
 
 Below are some examples of AI generated art (created by Stable Diffussion) and their prompts:
 
-<figure>
-  <img src="images/poblogo.jpeg" alt="Person on Bicycle Logo">
+![Graph](images/poblogo.jpeg){: .mx-auto.d-block :}
   <figcaption>"Person on Bicycle Logo"</figcaption>
-</figure>
 
 <figure>
   <img src="images/race.jpeg" alt="Athlete Wearing Red Wins Cycling Race in Switzerland">
