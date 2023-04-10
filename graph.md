@@ -16,8 +16,8 @@ Below are the results of a direct test done by a 20-year-old female using a cycl
 
 The top graph (in red) depicts ventilation (VE) plotted against <span>V&#x0307;</span>O<sub>2</sub>. 
 
-The second graph (in blue) depicts the fraction of oxygen in the expired air (VEO</span>O<sub>2</sub>) plotted against <span>V&#x0307;O<sub>2</sub>. 
+The second graph (in blue) depicts the fraction of oxygen in the expired air (VE</span>O<sub>2</sub>) plotted against <span>V&#x0307;</span>O<sub>2</sub>. 
 
-The second graph (in green) depicts the fraction of carbon dioxide in the expired air (VECO</span>O<sub>2</sub>) plotted against <span>V&#x0307;O<sub>2</sub>.
+The second graph (in green) depicts the fraction of carbon dioxide in the expired air (VEC</span>O<sub>2</sub>) plotted against <span>V&#x0307;</span>O<sub>2</sub>.
 
 More information on the data can be found here.
