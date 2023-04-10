@@ -8,33 +8,17 @@ AI has the capability producing new and original images through prompts. This te
 
 Below are some examples of AI generated art (created by Stable Diffussion) and their prompts:
 
-![Graph](images/poblogo.jpeg){: .mx-auto.d-block :}
-  <figcaption>"Person on Bicycle Logo"</figcaption>
+![Person on Bicycle Logo](images/poblogo.jpeg){: .mx-auto.d-block :}
+ "Person on Bicycle Logo"
 
-<figure>
-  <img src="images/race.jpeg" alt="Athlete Wearing Red Wins Cycling Race in Switzerland">
-  <figcaption>"Athlete Wearing Red Wins Cycling Race in Switzerland"</figcaption>
-</figure>
+![thlete Wearing Red Wins Cycling Race in Switzerland](images/race.jpeg){: .mx-auto.d-block :}
+"Athlete Wearing Red Wins Cycling Race in Switzerland"
 
-<figure>
-  <img src="images/womanbike.jpeg" alt="Woman in 1901 Riding a Bicycle">
-  <figcaption>"Woman in 1901 Riding a Bicycle"</figcaption>
-</figure>
+![Woman in 1901 Riding a Bicycle](images/womanbike.jpeg){: .mx-auto.d-block :}
+"Woman in 1901 Riding a Bicycle"
 
-<figure>
-  <img src="images/picasso.jpeg" alt="Bicycle in Picasso's Style">
-  <figcaption>"Bicycle in Picasso's Style"</figcaption>
-</figure>
+![Bicycle in Picasso's Style](images/picasso.jpeg){: .mx-auto.d-block :}
+"Bicycle in Picasso's Style"
 
-<figure>
-  <img src="images/cat.jpeg" alt="Human Cyclist with an Orange Cat in a Basket Riding on the Moon">
-  <figcaption>"Human Cyclist with an Orange Cat in a Basket Riding on the Moon"</figcaption>
-</figure>
-
-<style>
-figure {
-  display: block;
-  margin: 0 auto;
-  text-align: center;
-}
-</style>
+![Human Cyclist with an Orange Cat in a Basket Riding on the Moon](images/cat.jpeg){: .mx-auto.d-block :}
+"Human Cyclist with an Orange Cat in a Basket Riding on the Moon"
