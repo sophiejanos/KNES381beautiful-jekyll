@@ -11,25 +11,27 @@ Below are some examples of AI generated art (created by Stable Diffussion) and t
 <figure>
   <img src="images/poblogo.jpeg" alt="Person on Bicycle Logo">
   <figcaption>_"Person on Bicycle Logo"_</figcaption>
-</figure>images/poblogo.jpeg
+</figure>
 
-_"Person on Bicycle Logo"_
+<figure>
+  <img src="images/race.jpeg" alt="Athlete Wearing Red Wins Cycling Race in Switzerland">
+  <figcaption>"Athlete Wearing Red Wins Cycling Race in Switzerland"</figcaption>
+</figure>
 
-images/race.jpeg
+<figure>
+  <img src="images/womanbike.jpeg" alt="Woman in 1901 Riding a Bicycle">
+  <figcaption>"Woman in 1901 Riding a Bicycle"</figcaption>
+</figure>
 
-_"Athlete Wearing Red Wins Cycling Race in Switzerland"_
+<figure>
+  <img src="images/picasso.jpeg" alt="Bicycle in Picasso's Style">
+  <figcaption>"Bicycle in Picasso's Style"</figcaption>
+</figure>
 
-images/womanbike.jpeg
-
-_"Woman in 1901 Riding a Bicycle"_
-
-images/picasso.jpeg
-
-_"Bicycle in Picasso's Style"_
-
-images/cat.jpeg
-
-_"Human Cyclist with an Orange Cat in a Basket Riding on the Moon"_
+<figure>
+  <img src="images/cat.jpeg" alt="Human Cyclist with an Orange Cat in a Basket Riding on the Moon">
+  <figcaption>"Human Cyclist with an Orange Cat in a Basket Riding on the Moon"</figcaption>
+</figure>
 
 <style>
 figure {
