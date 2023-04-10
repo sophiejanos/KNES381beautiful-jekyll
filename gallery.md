@@ -9,16 +9,16 @@ AI has the capability producing new and original images through prompts. This te
 Below are some examples of AI generated art (created by Stable Diffussion) and their prompts:
 
 ![Person on Bicycle Logo](images/poblogo.jpeg){: .mx-auto.d-block :}
- "Person on Bicycle Logo"
+ _"Person on Bicycle Logo"_
 
 ![thlete Wearing Red Wins Cycling Race in Switzerland](images/race.jpeg){: .mx-auto.d-block :}
-"Athlete Wearing Red Wins Cycling Race in Switzerland"
+_"Athlete Wearing Red Wins Cycling Race in Switzerland"_
 
 ![Woman in 1901 Riding a Bicycle](images/womanbike.jpeg){: .mx-auto.d-block :}
-"Woman in 1901 Riding a Bicycle"
+_"Woman in 1901 Riding a Bicycle"_
 
 ![Bicycle in Picasso's Style](images/picasso.jpeg){: .mx-auto.d-block :}
-"Bicycle in Picasso's Style"
+_"Bicycle in Picasso's Style"_
 
 ![Human Cyclist with an Orange Cat in a Basket Riding on the Moon](images/cat.jpeg){: .mx-auto.d-block :}
-"Human Cyclist with an Orange Cat in a Basket Riding on the Moon"
+_"Human Cyclist with an Orange Cat in a Basket Riding on the Moon"_
