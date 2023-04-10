@@ -10,7 +10,7 @@ Below are some examples of AI generated art (created by Stable Diffussion) and t
 
 <figure>
   <img src="images/poblogo.jpeg" alt="Person on Bicycle Logo">
-  <figcaption>_"Person on Bicycle Logo"_</figcaption>
+  <figcaption>"Person on Bicycle Logo"</figcaption>
 </figure>
 
 <figure>
