@@ -21,8 +21,8 @@ author: Sophie Janos
 
 navbar-links:
   About Me: "aboutme"
-  Graphs:
-  Videos: ""
+  Graphs: "/graph/"
+  Videos:
   Gallery: "/gallery/"
   
 ################
