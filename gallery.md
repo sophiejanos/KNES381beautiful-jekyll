@@ -30,3 +30,11 @@ _"Bicycle in Picasso's Style"_
 images/cat.jpeg
 
 _"Human Cyclist with an Orange Cat in a Basket Riding on the Moon"_
+
+<style>
+figure {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+</style>
