@@ -22,6 +22,6 @@ The second graph (in green) depicts the fraction of carbon dioxide in the expire
 
 More information on the data can be found [here].()
 
-References: 
+References:  
 Iannetta, D., de Almeida Azevedo, R., Keir, D. A., &amp; Murias, J. M. (2019). Establishing the <span>V&#x0307;</span>O<sub>2x</sub> versus constant-work-rate relationship from ramp-incremental exercise: Simple strategies for an unsolved problem. _Journal of Applied Physiology_, _127_(6), 1519–1527. https://doi.org/10.1152/japplphysiol.00508.2019  
 Keteyian, S. J., Brawner, C. A., Savage, P. D., Ehrman, J. K., Schairer, J., Divine, G., Aldred, H., Ophaug, K., & Ades, P. A. (2008). Peak aerobic capacity predicts prognosis in patients with coronary heart disease. _American Heart Journal_, _156_(2), 292–300. https://doi.org/10.1016/j.ahj.2008.03.017
