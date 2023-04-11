@@ -4,7 +4,9 @@ title: Videos
 subtitle: Cycling Motion Analysis
 ---
 
-Motion analysis uses technology, computer applications and data analysis to evaluate movement. Although it can take many forms, such as using complex cameras and sensors, it can be done more through more accessible methods, such as annotating pre-existing videos using applications such as Dartfish. An advantage of this technology is that it can quantify motion quite accurately. This can help researchers, coaches, healthcare professionals, athletes and others better understand movement aspects, such as patterns, techniques, tendencies and various biomechanical factors. This can be beneficial to help improve movement and optimize performance in a variety of populations. 
+Motion analysis uses technology, computer applications and data analysis to evaluate movement. Although it can take many forms, such as using complex cameras and sensors, it can be done more through more accessible methods, such as annotating pre-existing videos using applications such as Dartfish. 
+
+An advantage of this technology is that it can quantify motion quite accurately. This can help researchers, coaches, healthcare professionals, athletes and others better understand movement aspects, such as patterns, techniques, tendencies and various biomechanical factors. This can be beneficial to help improve movement and optimize performance in a variety of populations. 
 
 Below is a video analyzing an athlete's knee flexion angles while cycling (created through Dartfish). The data table contains various angles collected at several points during one revolution to demonstrate his movement pattern. 
 
