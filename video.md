@@ -22,3 +22,6 @@ This is the postition where the angle between the upper and lower leg is the sma
 ![max](images/maxang.png){: .mx-auto.d-block :}
 
 This is the postition where the angle between the upper and lower leg is the largest (maximum flexion angle). For this athlete, it is 129.3°.
+
+References:
+Owens, J. G., Rauzi, M. R., Kittelson, A., Graber, J., Bade, M. J., Johnson, J., & Nabhan, D. (2020). How New Technology is Improving Physical Therapy. _Current Reviews in Musculoskeletal Medicine_, _13_(2), 200–211. https://doi.org/10.1007/s12178-020-09610-6 
