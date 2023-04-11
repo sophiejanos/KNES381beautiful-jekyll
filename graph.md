@@ -20,4 +20,4 @@ The second graph (in blue) depicts the fraction of oxygen in the expired air (VE
 
 The second graph (in green) depicts the fraction of carbon dioxide in the expired air (VECO<sub>2</sub>) plotted against <span>V&#x0307;</span>O<sub>2</sub>.
 
-More information on the data can be found [here.]()
+More information on the data can be found [here].()
