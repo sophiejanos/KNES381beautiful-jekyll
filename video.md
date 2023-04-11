@@ -15,7 +15,7 @@ Below is a video analyzing an athlete's knee flexion angles while cycling (creat
 
 Data from this motion analysis could be used to compare the athlete's performance to others or to see fluctuations in his cycling patterns (eg. comparing angles in various revolutions). Such videos can also be paused to capture more key moments, such as those below:
 
-![min](images/minang1.png){: .mx-auto.d-block :}
+![min](images/miniang.png){: .mx-auto.d-block :}
 
 This is the postition where the angle between the upper and lower leg is the smallest (mimimum flexion angle). For this athlete, it is 67.8°. 
 
