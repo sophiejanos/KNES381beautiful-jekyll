@@ -2,6 +2,5 @@
 layout: post
 title: Website Information
 subtitle: Welcome to My Website!
-gh-repo: daattali/beautiful-jekyll
 comments: true
 ---
