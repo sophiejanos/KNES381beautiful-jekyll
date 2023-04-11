@@ -20,7 +20,7 @@ The second graph (in blue) depicts the fraction of oxygen in the expired air (VE
 
 The second graph (in green) depicts the fraction of carbon dioxide in the expired air (VECO<sub>2</sub>) plotted against <span>V&#x0307;</span>O<sub>2</sub>.
 
-More information on the data can be found [here].()
+More information on the data can be found [here](subject_web.xlsx).
 
 **References:**  
 Iannetta, D., de Almeida Azevedo, R., Keir, D. A., &amp; Murias, J. M. (2019). Establishing the <span>V&#x0307;</span>O<sub>2x</sub> versus constant-work-rate relationship from ramp-incremental exercise: Simple strategies for an unsolved problem. _Journal of Applied Physiology_, _127_(6), 1519–1527. https://doi.org/10.1152/japplphysiol.00508.2019
