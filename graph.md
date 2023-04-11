@@ -10,7 +10,7 @@ Characteristically, a <span>V&#x0307;</span>O<sub>2</sub> max test has two break
 
 The second break is the respiratory compensation point (RCP), where ventilation can no longer keep up with the body's demand for oxygen, resulting in a CO2 increase. The <span>V&#x0307;</span>O<sub>2</sub> max point typically occurs just before the RCP.
 
-Below are the results of a direct test done by a 20-year-old female using a cycle ergometer:
+Below are the results of a direct test done by a 20-year-old female using a cycle ergometer (made through Excel):
 
 ![Graph](images/graph.png){: .mx-auto.d-block :}
 
