@@ -4,7 +4,7 @@ title: Gallery
 subtitle: AI's Attack on Art
 ---
 
-AI has the capability producing new and original images through prompts. This technology uses algorithms that allow it to learn certain patterns through analyzing existing images to create an output that reflects the prompt. These images can be as simple or complex as the user desires.
+Artificial intelligentce (AI) has the capability producing new and original images through prompts. This technology uses algorithms that allow it to learn certain patterns through analyzing existing images to create an output that reflects the prompt. These images can be as simple or complex as the user desires.
 
 Below are some examples of AI generated art (created by Stable Diffussion) and their prompts:
 
