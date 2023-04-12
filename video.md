@@ -11,7 +11,7 @@ An advantage of this technology is that it can quantify motion quite accurately.
 Below is a video analyzing an athlete's knee flexion angles while cycling (created through Dartfish). The data table contains various angles collected at several points during one revolution to demonstrate his movement pattern. 
 
 ![video](images/bikevid.mp4){: .mx-auto.d-block :}
-(Note: The video may take a minute to load or require a page refresh. Still having trouble viewing? Click [here](images/bikevid.mp4))
+(Note: The video may take a minute to load or require a page refresh. Still having trouble viewing? Click [here](images/bikevid.mp4).)
 
 Data from this motion analysis could be used to compare the athlete's performance to others or to see fluctuations in his cycling patterns (eg. comparing angles in various revolutions). Such videos can also be paused to capture more key moments, such as those below:
 
