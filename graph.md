@@ -8,7 +8,7 @@ Maximal oxygen uptake (<span>V&#x0307;</span>O<sub>2max</sub>) is the peak rate 
 
 Characteristically, a <span>V&#x0307;</span>O<sub>2max</sub> test graph has two breaks. These represent thresholds which divide different stages. The first break is the ventilatory threshold (VT), where ventilation (VE) begins to increase disproportionately to oxygen uptake. The second break is the respiratory compensation point (RCP), where a metabolic steady-state can no longer be established and exercise cannot continue for much longer. <span>V&#x0307;</span>O<sub>2max</sub> typically occurs just before the RCP.
 
-Below are the results of a direct <span>V&#x0307;</span>O<sub>2max</sub>test done by a 20-year-old female using a cycle ergometer (created through Excel):
+Below are the results of a direct <span>V&#x0307;</span>O<sub>2max</sub> test done by a 20-year-old female using a cycle ergometer (created through Excel):
 
 ![Graph](images/graph1.png){: .mx-auto.d-block :}
 
